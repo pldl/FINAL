@@ -9,11 +9,11 @@ class ColorLabeler:
 		# initialize the colors dictionary, containing the color
 		# name as the key and the RGB tuple as the value
 		colors = OrderedDict({
-			"redish": (83, 160, 150),
-			"greenish": (105, 105, 140),
+			"red": (83, 160, 150),
+			"green": (105, 105, 140),
 			"bluish": (80, 130, 106),
 			"true red": (100,185,175),
-			"yellowish": (170,100,200),
+			"yellow": (170,100,190),
 			"orange": (140, 150,180),
 			"falseblue":(200,125,125),
 			"white": (255,255,255),
